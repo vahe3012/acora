@@ -1,0 +1,15 @@
+#admin-sidebar-logo {
+    box-shadow: unset !important;
+    max-height: fit-content;
+    border-radius: 0;
+    height: 30px;
+    width: auto;
+}
+
+button.green-btn,
+button.green-btn:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+#create-form .add-image-item.small { width: 100% !important; }
